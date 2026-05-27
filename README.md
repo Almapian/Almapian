@@ -10,13 +10,13 @@
 
 ## Who am I?
 
-MSc student in Spatio-temporal Analytics and Big Data Mining at UCL, finishing in the summer of 2026. I work with spatial data and build things that turn it into something useful. Past projects span maritime pollution monitoring, tidal hydrodynamics, and ecological niche modelling repurposed for infrastructure siting.
+MSc student in Spatio-temporal Analytics and Big Data Mining at UCL, finishing in the summer of 2026. Experienced in applying machine learning, earth observation, and spatial modelling to geographic datasets to enable evidence-based decision-making across environmental, infrastructure, and policy contexts. Past projects span maritime pollution monitoring and site selection modelling.
 
 Looking for graduate roles in geospatial data science, earth observation, catastrophe risk, and applied research where the work has physical, financial, or environmental stakes.
 
 <br>
 
-## tech stack
+## Tech stack
  
 <div align="center">
 
@@ -55,7 +55,7 @@ Looking for graduate roles in geospatial data science, earth observation, catast
 <br>
 
 
-## elsewhere
+## Elsewhere
  
 <div align="center">
 
