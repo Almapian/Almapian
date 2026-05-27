@@ -57,8 +57,8 @@ Looking for graduate roles in geospatial data science, earth observation, catast
 ## elsewhere
  
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-al-fatihi-abdulmalik)]
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aluyaabdulmalik@gmail.com)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-al-fatihi-abdulmalik)
+![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aluyaabdulmalik@gmail.com)
  
 </div>
 
