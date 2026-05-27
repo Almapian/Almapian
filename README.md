@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <sub><em>geospatial data scientist · spatio-temporal analytics · london</em></sub>
+  <sub><em>geospatial data scientist · spatio-temporal analytics · London</em></sub>
 </p>
 
 <br>
 
-## who am I?
+## Who am I?
 
-MSc student in Spatio-temporal Analytics and Big Data Mining at UCL, finishing summer 2026. I work with messy spatial data and build things that turn it into something useful. Past projects span maritime pollution monitoring, tidal hydrodynamics, and ecological niche modelling repurposed for infrastructure siting.
+MSc student in Spatio-temporal Analytics and Big Data Mining at UCL, finishing in the summer of 2026. I work with spatial data and build things that turn it into something useful. Past projects span maritime pollution monitoring, tidal hydrodynamics, and ecological niche modelling repurposed for infrastructure siting.
 
 Looking for graduate roles in geospatial data science, earth observation, catastrophe risk, and applied research where the work has physical, financial, or environmental stakes.
 
@@ -34,10 +34,8 @@ platforms     PostgreSQL · Google Cloud Platform · Git · LaTeX
 ## elsewhere
 
 ```text
-github      @placeholder
-email       placeholder@domain.com
-linkedin    linkedin.com/in/placeholder
-site        northseawatch.org
+email       [aluyaabdulmalik@gmail.com](mailto:aluyaabdulmalik@gmail.com)
+linkedin    [linkedIn](https://www.linkedin.com/in/muhammed-al-fatihi-abdulmalik/)
 ```
 
 <br>
