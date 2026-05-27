@@ -1,0 +1,65 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dotgrid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.7" fill="#1f2937"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0a0e14" stop-opacity="0.95"/>
+      <stop offset="0.5" stop-color="#0a0e14" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#0a0e14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0a0e14"/>
+  <rect width="1200" height="320" fill="url(#dotgrid)"/>
+
+  <g stroke="#161b22" stroke-width="0.6" fill="none">
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+  </g>
+
+  <g stroke="#161b22" stroke-width="0.6" fill="none" opacity="0.7">
+    <line x1="200" y1="0" x2="200" y2="320"/>
+    <line x1="400" y1="0" x2="400" y2="320"/>
+    <line x1="600" y1="0" x2="600" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="1000" y1="0" x2="1000" y2="320"/>
+  </g>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="9" fill="#484f58" text-anchor="end">
+    <text x="1188" y="84">60°N</text>
+    <text x="1188" y="164">30°N</text>
+    <text x="1188" y="244">0°</text>
+  </g>
+
+  <g transform="translate(940, 130)">
+    <circle r="46" fill="none" stroke="#ff7849" stroke-width="0.8" opacity="0.15"/>
+    <circle r="28" fill="none" stroke="#ff7849" stroke-width="0.8" opacity="0.3"/>
+    <circle r="14" fill="none" stroke="#ff7849" stroke-width="0.8" opacity="0.55"/>
+    <line x1="-22" y1="0" x2="-9" y2="0" stroke="#ff7849" stroke-width="1"/>
+    <line x1="9" y1="0" x2="22" y2="0" stroke="#ff7849" stroke-width="1"/>
+    <line x1="0" y1="-22" x2="0" y2="-9" stroke="#ff7849" stroke-width="1"/>
+    <line x1="0" y1="9" x2="0" y2="22" stroke="#ff7849" stroke-width="1"/>
+    <circle r="3.2" fill="#ff7849"/>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" fill="#e6edf3">
+      <text x="58" y="-2" font-size="12" font-weight="500" letter-spacing="1.5">LONDON</text>
+      <text x="58" y="14" font-size="9.5" fill="#7d8590" letter-spacing="0.5">51.5074°N · 0.1278°W</text>
+    </g>
+  </g>
+
+  <rect x="0" y="0" width="720" height="320" fill="url(#fade)"/>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+    <text x="60" y="92" font-size="10" fill="#7d8590" letter-spacing="3">[ profile · readme ]</text>
+    <text x="60" y="160" font-size="52" font-weight="600" fill="#e6edf3" letter-spacing="-1.5">al [lastname]</text>
+    <text x="60" y="195" font-size="14" fill="#adbac7" letter-spacing="0.3">geospatial · spatio-temporal analytics · data science</text>
+    <text x="60" y="252" font-size="10" fill="#484f58" letter-spacing="1.5">// currently · msc spatio-temporal analytics @ ucl</text>
+  </g>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="9" fill="#484f58">
+    <text x="60" y="296" letter-spacing="2">N51.5074</text>
+    <text x="200" y="296" letter-spacing="2">W0.1278</text>
+    <text x="1140" y="296" text-anchor="end" letter-spacing="2">epsg:4326</text>
+  </g>
+</svg>
