@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <sub><em>geospatial data scientist · spatio-temporal analytics · London</em></sub>
+  <sub><em>Geospatial data scientist · Spatio-temporal analytics · London</em></sub>
 </p>
 
 <br>
