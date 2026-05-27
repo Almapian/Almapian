@@ -14,10 +14,6 @@ MSc student in Spatio-temporal Analytics and Big Data Mining at UCL, finishing i
 
 Looking for graduate roles in geospatial data science, earth observation, catastrophe risk, and applied research where the work has physical, financial, or environmental stakes.
 
-<p align="center">
-  <img src="./assets/location-map.svg" alt="cartographic map showing london at 530000e 180000n osgb36 epsg 27700" width="640">
-</p>
-
 <br>
 
 ## tech stack
@@ -61,9 +57,8 @@ Looking for graduate roles in geospatial data science, earth observation, catast
 ## elsewhere
  
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-al-fatihi-abdulmalik)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aluyaabdulmalik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-al-fatihi-abdulmalik)]
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aluyaabdulmalik@gmail.com)]
  
 </div>
 
-<sub><em>// reading the world through coordinates, one dataset at a time</em></sub>
