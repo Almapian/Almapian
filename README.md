@@ -19,6 +19,7 @@ Looking for graduate roles in geospatial data science, earth observation, catast
 ## tech stack
  
 <div align="center">
+
 **Geospatial**
  
 ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
